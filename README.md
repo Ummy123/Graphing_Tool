@@ -2,7 +2,7 @@
 Basic graphing tool
 
 Author: Amer S. 
-Date: January 30, 2022 
+Date: February 2, 2022 
 About The Project: Simple graphing tool for linear and quadratic equations
 
 Prerequisites: -python version 3.9 
